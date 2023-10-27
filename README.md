@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @naveenajesh1
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Naveen+Ajesh)](https://git.io/typing-svg)
+
+## ABOUT ME
+
+#### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in Java and C Programming.- 👋 Hi, I’m @naveenajesh1
+
 - 👀 I’m interested in learning different new programming language's and also getting new updates..
 - 🌱 I’m currently learning different modules in Java and C..
 - 💞️ I’m looking to collaborate on beginner and intermediate python projects
