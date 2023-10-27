@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning different modules in Java and C..
 - 💞️ I’m looking to collaborate on beginner and intermediate python projects..
 - 📫 Reach me out @naveenajesh1@gmail.com
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="middle"/>
 <!---
 naveenajesh1/naveenajesh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
