@@ -1,6 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Naveen+Ajesh)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
+
 ## ABOUT ME
 
 #### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in Java and C Programming.
