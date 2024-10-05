@@ -5,7 +5,7 @@
 ## ABOUT ME
 
 #### I'm a B.Tech Computer Science student passionate about programming and cloud computing. Currently, I'm focusing to improve my skills in Java and C Programming.
-- 👋 Hi, I’m Naveen
+- 👋 Hi, I’m Naveen Ajesh
 - 👀 I’m interested in learning different new programming language's and also getting new updates..
 - 🌱 I’m currently learning different modules in Java and C..
 - 💞️ I’m looking to collaborate on beginner and intermediate python projects..
